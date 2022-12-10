@@ -8,16 +8,7 @@ body {
   margin: 0; 
   padding: 0;
   font-family: "Arial", sans-serif;
-  font-size: 15px;
-  line-height: 1.5;
-  background-color: #fff;
-  height: 100vh;
-
-}
-
-main {
-  background-color: #ccc;
-  flex-grow: 1;
+  
 }
 
 img {
@@ -27,6 +18,9 @@ img {
 
 a {
   text-decoration: none;
+}
+h1,h2,h3,h4{
+  margin: 0;
 }
 
 .visually-hidden {
